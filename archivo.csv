@@ -1,0 +1,5 @@
+code,item,line,family,und,price,iva,weight,state,format,color,description
+101,Producto A,Línea 1,Familia X,UND,10.5,12,0.5,Activo,Formato A,Rojo,Descripción del Producto A
+102,Producto B,Línea 2,Familia Y,UND,20.0,12,1.0,Inactivo,Formato B,Azul,Descripción del Producto B
+103,Producto C,Línea 3,Familia Z,UND,15.75,5,2.3,Activo,Formato C,Verde,Descripción del Producto C
+104,Producto D,Línea 1,Familia X,UND,5.25,0,0.9,Activo,Formato A,Negro,Descripción del Producto D
